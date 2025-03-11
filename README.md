@@ -9,6 +9,5 @@
 #dont foget to give a star if u like the project.   <br>
 <br>
 
-#Demo VIdeo
-link:https://travel-consultancy-website.herokuapp.com/
+
 </b>
